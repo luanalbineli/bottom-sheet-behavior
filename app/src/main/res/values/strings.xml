@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">bottom-sheet-behavior</string>
+    <string name="backdrop_content">Here is your content</string>
+    <string name="main_activity_text">Main activity text</string>
+</resources>
